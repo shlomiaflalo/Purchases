@@ -1,0 +1,35 @@
+.my-profile-wrapper {
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.my-profile-header {
+    font-size: 4rem;
+    padding: 2rem;
+}
+
+.my-profile-wrapper p {
+    all: initial;
+    font-size: 1rem;
+    font-family: 'Inter', sans-serif;
+    font-weight: 700;
+    color: white;
+    margin: 2%;
+}
+
+.title-color-profile {
+    color: #403f3f;
+}
+
+.expire-time-border {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid #ffffff;
+}
+
+.card-profile-container {
+    padding: 2rem;
+}

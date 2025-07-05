@@ -1,0 +1,28 @@
+.search-bar-center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.search-bar::placeholder {
+    color: #ffffff;
+    opacity: 1;
+}
+
+.search-bar {
+    padding: 12px;
+    margin-bottom: 5%;
+    font-size: 2.2rem;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    background: transparent;
+    color: white;
+}
+
+.search-bar-width-general {
+    width: 50%;
+}
+
+.search-bar-width-customer {
+    width: 59%;
+}

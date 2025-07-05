@@ -1,0 +1,20 @@
+.header {
+    height: 160px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    border-bottom: 1px #ffffff solid;
+}
+
+.log-out-button {
+    padding: 20px 30px;
+    font-size: 2rem;
+    margin-right: 33px;
+}
+
+.greeting-title {
+    font-size: 2rem;
+    margin-right: 425px;
+    width: 30%;
+    white-space: nowrap;
+}

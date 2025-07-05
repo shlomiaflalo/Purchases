@@ -1,0 +1,43 @@
+/* Toast container */
+.Toastify__toast {
+    position: absolute;
+    width: 400px !important;
+    height: 300px !important;
+    background: linear-gradient(135deg, #4f3cd7 0%, #367be5 50%, #1675c2 100%);
+}
+
+/* Inner content wrapper */
+.toast-inner {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 100%;
+}
+
+/* Custom image/icon */
+.custom-icon {
+    position: absolute;
+    max-width: 50%;
+    max-height: 50%;
+    margin: auto;
+}
+
+/* Message styling */
+p {
+    position: absolute;
+    font-size: 15px;
+    font-weight: 700;
+    padding-top: 55%;
+    color: white;
+    text-align: center;
+    margin-right: 2%;
+    margin-left: 2%;
+    word-break: break-all;
+}
+
+.Toastify__progress-bar {
+    background: #ffffff !important; /* replace with your preferred color */
+}
+

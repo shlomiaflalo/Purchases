@@ -1,0 +1,39 @@
+.add {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    width: 100%;
+}
+
+.add button {
+    width: 30%;
+    padding: 25px 50px;
+    font-size: 2rem;
+}
+
+
+.adding {
+    display: flex;
+    font-size: 4rem;
+    text-align: center;
+    justify-content: center;
+    margin-top: 3%;
+    padding-bottom: 5%;
+}
+
+.input-field-add {
+    width: 30%;
+    padding: 25px 50px;
+    border: none;
+    border-radius: 8px;
+    font-size: 2rem;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.add button:disabled {
+    opacity: 0.5;
+    cursor: not-allowed;
+    pointer-events: none;
+}

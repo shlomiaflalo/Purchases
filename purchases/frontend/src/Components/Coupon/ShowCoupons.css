@@ -1,0 +1,27 @@
+.coupons-wrapper {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 30px;
+    justify-content: center;
+    padding: 20px;
+}
+
+.coupons-information-title {
+    display: flex;
+    font-size: 4rem;
+    text-align: center;
+    justify-content: center;
+    margin-top: 3%;
+    padding-bottom: 5%;
+}
+
+.center-no-coupons-found {
+    height: 100%;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    font-size: 100px;
+}

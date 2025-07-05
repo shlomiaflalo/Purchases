@@ -1,0 +1,48 @@
+.full-background {
+    background-image: url('../../assets/login.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+}
+
+.login-form {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    width: 370px;
+    height: 450px;
+    margin-top: 20px;
+}
+
+.input-field {
+    padding: 12px 15px;
+    border: none;
+    border-radius: 8px;
+    font-size: 1rem;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+
+.full-background button {
+    padding: 12px 15px;
+    font-size: 1.2rem;
+    margin:0;
+}
+
+.login-page {
+    display: flex;
+    padding-left: 6.6%;
+    padding-top: 145px;
+    flex-direction: column;
+}
+.full-background button:disabled {
+    opacity: 0.5;
+    cursor: not-allowed;
+    pointer-events: none;
+}
+
+

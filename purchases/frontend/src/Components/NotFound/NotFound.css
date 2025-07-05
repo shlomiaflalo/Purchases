@@ -1,0 +1,44 @@
+.not-found {
+    min-height: 100vh; /* makes it fill the viewport */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.not-found img {
+    position: absolute;
+    max-height: 40%;
+    max-width: 40%;
+    margin-bottom: 10%;
+
+}
+
+.not-found h1 {
+    position: absolute;
+    font-size: 64px;
+    color: #ffffff;
+    margin-top: 20%;
+}
+
+.not-found p {
+    position: absolute;
+    font-size: 24px;
+    color: #ffffff;
+    margin-bottom: 27%;
+}
+
+/* Button */
+.button-go-back-not-found {
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    font-size: 2.5rem;
+    padding-bottom: 60px;
+    padding-top: 60px;
+    margin-top: 44%;
+    border-radius: 0;
+}

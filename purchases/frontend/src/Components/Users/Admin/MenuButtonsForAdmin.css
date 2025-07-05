@@ -1,0 +1,18 @@
+.admin_side_bar_buttons {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    height: 100%;
+    align-items: center;
+    justify-content: center;
+    margin: 1px;
+    gap: 1rem;
+}
+
+.admin_side_bar_buttons button {
+    width: 90%;
+    height: 10%;
+    margin: 0;
+    padding: 10px;
+    font-size: 1.2rem;
+}
