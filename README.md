@@ -3,7 +3,7 @@
 This is a complete coupon management system built with **Spring Boot (Java)** for the backend and **React + TypeScript** for the frontend. 
 It supports multiple client types: Admin, Company, and Customer — each with dedicated features and access levels.
 
-![Home page](screenshot_project/home.png)
+![Home page](purchases/screenshot_project/home.png)
 
 ---
 
@@ -43,16 +43,16 @@ It supports multiple client types: Admin, Company, and Customer — each with de
 ## 🧪 Screenshots
 
 ### 🔒 Login Page
-![Login Page](screenshot_project/screenshot-login.png)
+![Login Page](purchases/screenshot_project/screenshot-login.png)
 
 ### Admin Page
-![Admin Page](screenshot_project/Admin/screenshot1.png)
+![Admin Page](purchases/screenshot_project/Admin/screenshot1.png)
 
 ### 🏢 Company Dashboard
-![Company Dashboard](screenshot_project/Company/screenshot.png)
+![Company Dashboard](purchases/screenshot_project/Company/screenshot.png)
 
 ### Customer view coupons
-![Coupons View](screenshot_project/Customer/screenshot1.png)
+![Coupons View](purchases/screenshot_project/Customer/screenshot1.png)
 
 ### Customer purchase coupon
-![Purchase coupon](screenshot_project/Customer/screenshot2.png)
+![Purchase coupon](purchases/screenshot_project/Customer/screenshot2.png)
