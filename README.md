@@ -56,3 +56,5 @@ It supports multiple client types: Admin, Company, and Customer — each with de
 
 ### Customer purchase coupon
 ![Purchase coupon](purchases/screenshot_project/Customer/screenshot2.png)
+
+Built by Shlomi Aflalo — shlomiaflalo.com
